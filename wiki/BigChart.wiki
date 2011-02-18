@@ -1,0 +1,3 @@
+#summary Big Chart representando o progresso do desenvolvimento.
+
+==Big Chart==
