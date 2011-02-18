@@ -1,0 +1,5 @@
+#summary Documento Arquitetural do Schema Generator.
+
+=== O download do documento pode ser feito pelo link: ===
+
+[http://schemagenerator2.googlecode.com/files/relatorioArquitetural.pdf Aqui]
