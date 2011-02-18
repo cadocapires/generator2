@@ -1,0 +1,10 @@
+#summary Ferramentas utilizadas no desenvolvimento do Schema Generator.
+
+=== Ferramentas ===
+   A IDE utilizada para desenvolvimento é o [http://netbeans.org/ NetBeans 6.9.1], esta foi escolhida pela facilidade de desenvolvimento gráfico e pelo conhecimento dos desenvolvedores.
+
+   O Sintema de Gerência de Banco de Dados(SGBD) é o [http://www.oracle.com/br/index.htm Oracle Database 10g Express Edition], versão escolhida pelo cliente.
+
+   A linguagem de desenvolvimento é [http://www.java.com/pt_BR/ Java1.6].
+
+   O Junit utilizado é 4.0
