@@ -1,0 +1,3 @@
+#summary Arquitetura do Schema Generator.
+
+=== Arquitetura ===
