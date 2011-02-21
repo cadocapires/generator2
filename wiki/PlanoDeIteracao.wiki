@@ -2,4 +2,45 @@
 
 = Plano De Iteração =
 
-=== Iteração 1 - (21/02 - 08/03) ===
+=== Iteração 1 - (21/02 - 28/02) ===
+
+US1.1 - 	Implementar adição de campos. 
+|||| *Tarefa* |||| *Descrição* |||| *Responsável* |||| *Duração Prevista*|||| *Duração Real*|||| *Status* ||
+||A5.1.1||||Estudar adição de campos||||Todos||||5h||||||||||
+||A5.1.2||||Implementar adição de campos||||Márcio||||12h||||||||||
+
+
+*TA5.1* - Verificar através do log quais campos foram inseridos.
+
+=== Iteração 2 - (28/02 - 07/03) ===
+US1.2 - 	Implementar remoção de campos. 
+|||| *Tarefa* |||| *Descrição* |||| *Responsável* |||| *Duração Prevista*|||| *Duração Real*|||| *Status* ||
+||A5.2.1||||Estudar remoção de campos||||Todos||||5h||||||||||
+||A5.2.2||||Implementar remoção de campos||||Márcio||||12h||||||||||
+
+
+*TA5.2* - Verificar através do log quais campos foram removidos.
+
+
+=== Iteração 3 - (07/03 - 14/03) ===
+US2.1 - Implementar mudança de label (uso do dicionário) na geração de esquemas.
+|||| *Tarefa* |||| *Descrição* |||| *Responsável* |||| *Duração Prevista*|||| *Duração Real*|||| *Status* ||
+||A4.1||||Estudar mudança de label||||Todos||||5h||||||||||
+||A4.1||||Criar dicionário de label em .txt||||Todos||||10h||||||||||
+||A4.2||||Implementar acesso ao dicionário em .txt ||||Priscilla||||12h||||||||||
+||A4.2||||Implementar mundança de label.||||Márcio||||12h||||||||||
+
+*TA 4.1* - Verificar através do log as mudanças da label.
+
+=== Iteração 4 - (14/03 - 21/03) ===
+US2.2 - Implementar mudança de tipos (uso do dicionário) na geração de esquemas.
+|||| *Tarefa* |||| *Descrição* |||| *Responsável* |||| *Duração Prevista*|||| *Duração Real*|||| *Status* ||
+||A4.1||||Estudar mudança de label||||Todos||||5h||||||||||
+||A4.1||||Criar dicionário de label em .txt||||Todos||||10h||||||||||
+||A4.2||||Implementar acesso ao dicionário em .txt ||||Priscilla||||12h||||||||||
+||A4.2||||Implementar mundança de tipos.||||Márcio||||12h||||||||||
+
+*TA 4.1* - Verificar através do log as mudanças da label.
+
+
+Os status C – concluído; D – em desenvolvimento A – abortada.
