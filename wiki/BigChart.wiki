@@ -1,3 +1,6 @@
 #summary Big Chart representando o progresso do desenvolvimento.
 
 ==Big Chart==
+
+|| *Data* |||| *Classes* |||| *Testes de Aceitação* |||| *Testes de Unidade* |||| *User Stories* |||| *Iteração* ||
+||29/11/2010||||27||||20||||19||||11||||0||
