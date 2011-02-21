@@ -1,1 +1,6 @@
 #summary Problemas que podem prejudicar ou retardar alguma atividade já prevista.
+
+|| *Data* |||| *Risco* |||| *Gravidade(baixo, médio e alto) * |||| *Ordem(1 = pior risco)* |||| *Ordem semana passada* |||| *Número de semanas na lista* |||| *Responsável* |||| *Observações* ||
+||21/02||||Aplicação ou computador pode não suportar grande número de consultas ao SGBD||||Médio||||3||||||||||||Márcio||||O cliente não definiu restrições de tempo de respostas, no entanto tempos muito prolongados não são aceitos.||
+||21/02||||Insegurança da equipe quanto as novas técnicas a serem implementas||||Médio||||1||||||||||||Priscilla||||Nas iterações onde novas técnicas serão implementas, um estudo prévio deverá ser feito, dado que as técnicas são consideradas complexas.||
+||21/02||||Podemos não encontrar evento para submissão de artigo. ||||Alto||||1||||||||||||Todos||||Todos os envolvidos no projeto ficaram pesquisando para encontrar um evento.||
