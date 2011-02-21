@@ -35,8 +35,8 @@ US2.1 - Implementar mudança de label (uso do dicionário) na geração de esque
 === Iteração 4 - (14/03 - 21/03) ===
 US2.2 - Implementar mudança de tipos (uso do dicionário) na geração de esquemas.
 |||| *Tarefa* |||| *Descrição* |||| *Responsável* |||| *Duração Prevista*|||| *Duração Real*|||| *Status* ||
-||A4.1||||Estudar mudança de label||||Todos||||5h||||||||||
-||A4.1||||Criar dicionário de label em .txt||||Todos||||10h||||||||||
+||A4.1||||Estudar mudança de tipos||||Todos||||5h||||||||||
+||A4.1||||Criar dicionário de tipos em .txt||||Todos||||10h||||||||||
 ||A4.2||||Implementar acesso ao dicionário em .txt ||||Priscilla||||12h||||||||||
 ||A4.2||||Implementar mundança de tipos.||||Márcio||||12h||||||||||
 
