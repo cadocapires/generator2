@@ -3,12 +3,12 @@
 = Plano de releases para projeto 2 =
 
 || *Iteração*|||| *US Implementadas* |||| *Prazo definido Pelo Cliente*|||| *Prazo da Disciplina* |||| *Indicador de Release* ||
-||Iteração 1||||US1||||21/02 - 28/02||||||||NÃO||
-||Iteração 2||||US2||||28/02 - 07/03||||||||NÃO||
-||Iteração 3||||US3||||07/03 - 14/03||||||||NÃO||
-||Iteração 4||||US4||||14/03 - 21/03||||||||SIM||
-||Iteração 5||||US5||||21/03 - 06/03||||||||NÃO||
-||Iteração 6||||US6||||06/03 - 21/03||||||||SIM||
-||Iteração 7||||US7||||21/03 - ||||||||NÃO||
+||Iteração 1||||US1.1||||21/02 - 28/02||||||||NÃO||
+||Iteração 2||||US1.2||||28/02 - 07/03||||||||NÃO||
+||Iteração 3||||US2.1||||07/03 - 14/03||||||||NÃO||
+||Iteração 4||||US2.2||||14/03 - 21/03||||||||SIM||
+||Iteração 5||||US3||||21/03 - 06/03||||||||NÃO||
+||Iteração 6||||US4||||06/03 - 21/03||||||||SIM||
+||Iteração 7||||US5||||21/03 - ||||||||NÃO||
 
 Os status C – concluído; D – em desenvolvimento A – abortada.
