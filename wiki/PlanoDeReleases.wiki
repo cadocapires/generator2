@@ -1,3 +1,11 @@
 #summary Plano de Releases do sistema.
 
 = Plano de releases para projeto 2 =
+
+|| *Iteração*|||| *US Implementadas* |||| *Prazo definido Pelo Cliente*|||| *Prazo da Disciplina* |||| *Indicador de Release* ||
+||Iteração 1||||US1||||13/09 - 30/09||||04/10||||NÃO||
+||Iteração 2||||US2||||30/09 - 14/10||||18/10||||NÃO||
+||Iteração 3||||US3||||14/10 - 01/11||||03/11||||SIM||
+||Iteração 4||||US4||||01/11 - 15/11||||17/11||||NÃO||
+||Iteração 5||||US5||||15/11 - 24/11||||24/11||||NÂO||
+||Iteração 6||||US5||||24/11 - 29/11||||29/11||||SIM||
