@@ -1,0 +1,6 @@
+### Plano de Gerência ###
+| **Gerente**| **Etapa**|**Período**| |
+|:-----------|:---------|:-----------|:|
+|Priscilla Vieira|Release 1|21/02 - 21/03| |
+|Márcio Saraiva|Release 2|21/03 - 29/04| |
+|Priscilla Vieira|Release 3|29/04 - 29/05| |

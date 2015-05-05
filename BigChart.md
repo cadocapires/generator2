@@ -1,0 +1,7 @@
+## Big Chart ##
+
+| **Data** | **Classes** | | **Testes de Aceitação** | | **Testes de Unidade** | | **User Stories** | | **Iteração** | |
+|:---------|:------------|:|:--------------------------|:|:----------------------|:|:-----------------|:|:---------------|:|
+|29/11/2010|27| |20| |19| |11| |0 | |
+
+**Observação:** A iteração zero(o) representa o código herdado.

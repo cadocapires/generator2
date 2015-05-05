@@ -1,0 +1,7 @@
+### User Stories ###
+| US1 |Implementar adição/remoção de campos.| | 20 horas | |TA5.1 Verificar através do log quais campos foram inseridos. TA5.2 Verificar através do log quais campos foram removidos.| |
+|:----|:----------------------------------------|:|:---------|:|:--------------------------------------------------------------------------------------------------------------------------|:|
+| US2 |Especificar e implementar mudança de label e de tipos (uso do dicionário) na geração de esquemas.| | 20 horas| | Verificar através do log as mudanças da label.| |
+| US3 |Especificar e implementar merge de tabelas.| | 20 horas| | Verificar através do log as mudanças da label.| |
+| US4 |Realizar testes e experimentos. | | 20 horas| | Verificar através dos log e programas para experimentos o desempenho do SchemaGenerator.| |
+| US5 |Escrever e submeter artigo.| | 20 horas| | Ter artigo aceito em algum evento da área.| |
